@@ -1,10 +1,10 @@
 def celsius_to_fahr(temp):
     temp = 9/5 * temp + 32
-return ("The freezing point of water in Fahrenheit is: {}".format(temp))
+    return ("The freezing point of water in Fahrenheit is: {}".format(temp))
 
 def  kelvins_to_celsius(temp_kelvins):
     temp = temp_kelvins - 273.15
-    return ("The absolute freezing point of water in Celsius is: {}“.format(temp))
+    return ("the  absolute freezing point of water in celsius is: {}".format(temp))
 
 def main():
     temp = 0
