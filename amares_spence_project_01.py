@@ -6,7 +6,7 @@ def main():
     print("college is:" + college)
     Highschool = input("what high school did you go to?:")
     print("Highschool is:" + Highschool)
-    print("which one was more  fun highschool or college?")
+    print("which one was more fun highschool or college?")
     last_qustion = input("which one was more fun highschool or college?:")
     print("last_qustion is:" + last_qustion)
     print("thank you you for using this program ms.spence i hope you use it again!!!")
