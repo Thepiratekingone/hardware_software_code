@@ -18,4 +18,4 @@ def main():
     stop_loop = input("Type 'yes' to exit program: ").lower().strip()
 
 if __name__ == "__main__":
-  main()
+    main()
